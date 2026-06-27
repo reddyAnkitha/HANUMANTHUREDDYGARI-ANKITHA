@@ -1,166 +1,337 @@
-# 👋 Hi there, I'm Ankitha Reddy!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ankitha+Reddy;Software+Engineer;Java+Backend+Developer;Cloud+%26+AI+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
-### 💻 Software Engineer | Java Backend Developer | Cloud & AI Enthusiast
+<h1 align="center">Hi 👋, I'm Ankitha Reddy</h1>
 
----
+<h3 align="center">
+Software Engineer | Java Backend Developer | Cloud & AI Enthusiast
+</h3>
 
-## 🚀 About Me
+<p align="center">
 
-I'm a Software Engineer passionate about designing scalable backend applications, cloud-native solutions, and AI-powered systems. I enjoy solving real-world problems using Java, Spring Boot, Microservices, and modern cloud technologies.
+<a href="https://github.com/reddyAnkitha">
+<img src="https://img.shields.io/github/followers/reddyAnkitha?label=Followers&style=for-the-badge"/>
+</a>
 
-* 💼 Software Engineer specializing in Java Backend Development
-* ☕ Experienced with Java, Spring Boot, REST APIs & Microservices
-* ☁️ Cloud Enthusiast (Microsoft Azure & AWS)
-* 🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
-* 🐳 Exploring Docker, Kubernetes & CI/CD
-* 🚀 Passionate about building scalable and secure applications
+<img src="https://komarev.com/ghpvc/?username=reddyAnkitha&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-* Java
-* Python
-* SQL
-* JavaScript
-* C
-
-### ⚙️ Backend Development
-
-* Spring Boot
-* Spring MVC
-* Spring Security
-* REST APIs
-* Microservices
-* Hibernate
-* JPA
-* JDBC
-
-### 🎨 Frontend
-
-* HTML5
-* CSS3
-* Angular
-* Bootstrap
-
-### ☁️ Cloud & DevOps
-
-* Microsoft Azure
-* AWS
-* Docker
-* Kubernetes
-* Jenkins
-* GitHub Actions
-* CI/CD
-* Linux
-
-### 🗄️ Database
-
-* MySQL
-* SQL
-
-### 🤖 AI & Machine Learning
-
-* Scikit-learn
-* Pandas
-* NumPy
-* Streamlit
-* Sentence Transformers
-* FAISS
-
-### 🛠️ Tools
-
-* Git
-* GitHub
-* Maven
-* Postman
-* VS Code
-* Eclipse
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 About Me
 
-### 🤖 AI-Powered Candidate Ranking System
+💻 Passionate Software Engineer with expertise in Java Backend Development, Spring Boot, REST APIs, and Cloud Technologies.
 
-An intelligent recruitment platform that ranks candidates using NLP, semantic search, embeddings, and machine learning.
+I enjoy building scalable backend systems, cloud-native applications, and AI-powered solutions that solve real-world problems.
 
-**Tech Stack:** Python, Streamlit, Sentence Transformers, FAISS, Scikit-learn
+- 💼 Software Engineer
+- ☕ Java Backend Developer
+- 🌱 Currently learning Kubernetes, System Design & Generative AI
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- ☁️ Microsoft Azure Certified
+- 🚀 Love building scalable backend applications
 
-🔗 Repository:
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=hibernate"/>
+
+<img src="https://skillicons.dev/icons?i=maven"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=angular"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=azure"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes"/>
+
+<img src="https://skillicons.dev/icons?i=jenkins"/>
+
+<img src="https://skillicons.dev/icons?i=githubactions"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+- Machine Learning
+- NLP
+- Streamlit
+- FAISS
+- Sentence Transformers
+- Pandas
+- NumPy
+- Scikit-Learn
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=eclipse"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI-Powered Candidate Ranking System
+
+An intelligent recruitment platform that ranks candidates using semantic search, NLP embeddings, and Machine Learning.
+
+### ✨ Features
+- Resume Parsing
+- Semantic Search
+- Skill Matching
+- Candidate Ranking
+- Interactive Dashboard
+
+**Tech Stack**
+
+`Python` • `Streamlit` • `FAISS` • `Sentence Transformers` • `Scikit-Learn`
+
+🔗 **Repository**
 https://github.com/reddyAnkitha/india-runs-ai-ranking
 
 ---
 
-### 🏢 HRMS & Payroll Management System
+## 🏢 HRMS & Payroll Management System
 
-Developed a scalable HRMS application with employee management, payroll processing, attendance tracking, and automated workflows.
+A complete Human Resource Management System with payroll processing, employee management, attendance tracking, and leave management.
 
-**Tech Stack:** Java, Spring Boot, MySQL, REST APIs, GitHub Actions
+### ✨ Features
 
----
+- Employee Management
+- Payroll Automation
+- Attendance Tracking
+- Leave Management
+- Authentication
+- REST APIs
 
-### 🛡️ Phishing Website Detection System
+**Tech Stack**
 
-Built a machine learning model achieving high phishing detection accuracy using feature engineering and data preprocessing.
+`Java` • `Spring Boot` • `MySQL` • `Hibernate` • `GitHub Actions`
 
-**Tech Stack:** Python, Machine Learning, Pandas
-
----
-
-## 🏆 Certifications
-
-* Microsoft Certified: Azure Fundamentals (AZ-900)
-* Microsoft Certified: Developing Solutions for Microsoft Azure (AZ-204)
-* Google AI Agents Intensive Course
-* Java Full Stack Development
-* Database Management
+🔗 **Repository**
+https://github.com/reddyAnkitha/HRMS-and-Payroll-Management
 
 ---
 
-## 🌱 Currently Learning
+## 🛡️ Phishing Website Detection
 
-* Spring Security
-* Kubernetes
-* System Design
-* Cloud Architecture
-* Generative AI
-* Distributed Systems
+Machine Learning project to detect phishing websites using feature engineering and classification algorithms.
 
----
+### Tech Stack
 
-## 🎯 Career Objective
-
-Seeking opportunities as a **Software Engineer**, **Java Backend Developer**, **Java Full Stack Developer**, or **Cloud Engineer**, where I can contribute to scalable backend systems, cloud-native applications, and AI-driven solutions.
-
----
-## 📊 GitHub Stats
-
-![Ankitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddyAnkitha&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=reddyAnkitha&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyAnkitha&layout=compact&theme=tokyonight&hide_border=true)
-
-## 📈 Contribution Graph
-
-[![Ankitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reddyAnkitha&theme=tokyo-night)](https://github.com/reddyAnkitha)
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=reddyAnkitha&color=blue)
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-* 💻 GitHub: https://github.com/reddyAnkitha
-* 📧 Email: [ankithaanki661@gmail.com](mailto:ankithaanki661@gmail.com)
+Python • Pandas • NumPy • Machine Learning • Scikit-Learn
 
 ---
 
-> 💬 *"Code. Learn. Build. Repeat."*
+## 📊 Student Performance Analysis
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+Performed Exploratory Data Analysis (EDA) to identify trends affecting student academic performance.
+
+### Tech Stack
+
+Python • Pandas • Matplotlib • Data Analysis
+
+---
+
+# 🏆 Certifications
+
+✔ Microsoft Certified: Azure Fundamentals (AZ-900)
+
+✔ Microsoft Certified: Developing Solutions for Microsoft Azure (AZ-204)
+
+✔ Google AI Agents Intensive Course
+
+✔ Java Full Stack Development
+
+✔ Database Management
+
+---
+
+# 🎯 Career Objective
+
+Passionate Software Engineer seeking opportunities as a
+
+- Java Backend Developer
+- Software Engineer
+- Java Full Stack Developer
+- Cloud Engineer
+- AI / ML Engineer
+
+where I can contribute to building scalable applications while continuously learning modern technologies.
+
+---
+
+# 🌱 Currently Learning
+
+- Kubernetes
+- Spring Security
+- System Design
+- Microservices
+- Distributed Systems
+- Generative AI
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddyAnkitha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyAnkitha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=reddyAnkitha&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=reddyAnkitha&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reddyAnkitha&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ankitha-hanumanthureddygari-25117a22a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ankithaanki661@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/reddyAnkitha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Hanumanthareddygari">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Fun Fact
+
+```java
+while(!success){
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+---
+
+## 💬 Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+If you like my projects, consider giving them a ⭐.
+
+Happy Coding! 🚀
+
+</div>
